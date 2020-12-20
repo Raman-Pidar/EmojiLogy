@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0rem;
+  background-image: url("emoji.svg");
+}
+nav {
+  background-color: yellow;
+  padding: 1rem 1rem;
+  margin: 1rem;
+}
+
+footer {
+  padding: 1rem 1rem;
+  margin: 1rem;
+  bottom: 0%;
+
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+textarea {
+  margin: 2rem;
+  padding: 1rem 2rem;
+}
